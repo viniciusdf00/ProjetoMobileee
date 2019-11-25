@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projeto</string>
+    <string name="text_escolhermesa">Escolha sua mesa</string>
+    <string name="texte_lerqr">Ler QRCODE</string>
+    <string name="text_digitarmesa">Digitar Número da Mesa</string>
+    <string name="btn_qr">qrcode</string>
+    <string name="btn_digitar">digitar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="text_selecionar">Seleção de Mesa</string>
+    <string name="text_digite">Digite o Número da Mesa</string>
+    <string name="hint_padrao">Digite o Número da Mesa</string>
+    <string name="btn_conf">Confirmar</string>
+</resources>
